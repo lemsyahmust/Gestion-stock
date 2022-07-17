@@ -153,4 +153,10 @@
   
           2. Règles de gestion :
           
-Ici on a travailler avec la méthode <b>CASCADE</b>, Après une profonde analyse du cahier de charges rédigé à partir des informations reçues du client, il a été conclu que le schéma conceptuel du projet doit se composer des entités suivantes:
+     Ici on a travailler avec la méthode <b>CASCADE</b>, Après une profonde analyse du cahier de charges rédigé à partir des informations reçues du client, il a été conclu que le schéma conceptuel du projet doit se composer des entités suivantes: 
+
+ * Grossiste: définit le nom et le capital du futur propriétaire de l'application.
+ * User: définit l'ensemble des utilisateurs de l'application. Ces utilisateurs peuvent être de différents types (Administrateur, Utilisateur Ordinaire,...) qui sont décrits dans l'entité TypeUser.
+ * Société: caractérise les principaux opérateurs qui sont en relation avec le client.
+ * Revendeur: décrit l'ensemble des clients revendeurs qui achètent en gros les produits depuis le grossiste à travers des commandes. Ces produits sont divisés en plusieurs catégories définies dans l'entité CategoriePdt.
+ * ArchiveStock : pour archiver le stock initial (SI) et le stock final (SF) d'un produit pour une certaine date.
