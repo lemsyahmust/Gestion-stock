@@ -159,3 +159,14 @@
  * Société: caractérise les principaux opérateurs qui sont en relation avec le client.
  * Revendeur: décrit l'ensemble des clients revendeurs qui achètent en gros les produits depuis le grossiste à travers des commandes. Ces produits sont divisés en plusieurs catégories définies dans l'entité CategoriePdt.
  * ArchiveStock : pour archiver le stock initial (SI) et le stock final (SF) d'un produit pour une certaine date.
+
+<b>Les principales règles de gestion du système d'information sont les suivantes :</b>
+* Chaque produit est caractérisé par une catégorie des produits. Il existe pour le moment 4 catégories : Recharges, Puces, Modems, et Portables.
+* Un revendeur peut lancer  plusieurs commandes pour acheter plusieurs produits en gros. Ce revendeur possède un certain pourcentage d'achat sur chaque catégorie des produits  sauf les portables il est fixé.
+* L'application peut avoir plusieurs utilisateurs que chacun a ses droits d'accès.
+
+          3. La Méthode MERISE :
+
+Merise est une méthode d'analyse, de conception et de gestion de projet informatique.
+
+
