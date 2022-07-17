@@ -178,5 +178,6 @@ Le schéma du MCD suivant décrit les différentes entités ainsi que les relati
           3-2. Modèle Physique de Données (MPD) :
 
 Presque identique au MCD, le MPD traduit les relations porteuses en des tables, ce qui est représenté dans le schéma suivant :
+
 ![MPD](https://user-images.githubusercontent.com/83125801/179428834-507b1363-7145-4391-b984-41429320569f.png)
 
