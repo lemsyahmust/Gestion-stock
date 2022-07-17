@@ -14,11 +14,11 @@
           
 <table>
        <tr>
-        <td>Libelle </td>
-        <td>Description </td>
+        <td><U>Libelle </U></td>
+        <td><U>Description </U></td>
         <td> </td>
-        <td>Libelle </td>
-        <td>Description </td>
+        <td><U>Libelle </U></td>
+        <td><U>Description </U></td>
        </tr>
        <tr>
         <td>idGross  </td>
