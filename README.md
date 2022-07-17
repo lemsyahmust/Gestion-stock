@@ -33,13 +33,31 @@
         <td>codeSoc </td>
         <td>Code d’un opérateur  </td>
        </tr>
-     <tr>
+       <tr>
         <td>nomSoc   </td>
         <td>Nom d’un opérateur  </td>
         <td> </td>
         <td>telSoc </td>
         <td>Numéro de téléphone d’un opérateur  </td>
        </tr>
+ 
+        <tr>
+        <td>codeRevend  </td>
+        <td>Identifiant d’un revendeur  </td>
+        <td> </td>
+        <td>codeCateg </td>
+        <td>Identifiant d’une catégorie produit </td>
+       </tr>
+ 
+         <tr>
+        <td>categPdt  </td>
+        <td>Nom d’une catégorie produit  </td>
+        <td> </td>
+        <td>typeCateg </td>
+        <td>Type d’une catégorie produit </td>
+       </tr>
+ 
+ 
       </table>    
           
           2.	La méthode MERISE :
