@@ -1,7 +1,8 @@
 # Gestion-stock
 # 
 <h3>I.	Présentation du projet</h3>
- * La mise en place de l’application  "Gestion de Stock " réalisée dans l'objectif d'informatiser les fonctions principales d'un grossiste fournisseur des recharge telephonique et des portables, caractérisées par la gestion du stock, des revendeurs, des produits, et des commandes.
+
+* La mise en place de l’application  "Gestion de Stock " réalisée dans l'objectif d'informatiser les fonctions principales d'un grossiste fournisseur des recharge telephonique et des portables, caractérisées par la gestion du stock, des revendeurs, des produits, et des commandes.
 
  * Le développement de l’application "Gestion de stock et livraison ", est basé sur le  VB.NET comme langage de programmation  et SQL SERVER 2008 comme outil de gestion de base de données.
 
@@ -10,6 +11,7 @@
   * L'achat des produits depuis les opérateurs est fixé par un certain prix qui diffère d'un produit à un autre. La même chose lors de la revente: à chaque revendeur et pour chaque catégorie des produits est associé un pourcentage calculé sur le tarif client qui décide du prix de vente des produits à ce revendeur.
   
   <h3>II. Analyse et Conception</h3>
+  
           1. Dictionnaire de données:
           
 <table>
@@ -104,10 +106,51 @@
         <td>prixPdt </td>
         <td>Prix client d’un produit </td>
        </tr>
-       
-       
-       
-       
-       
+       <tr>
+        <td>qteStock </td>
+        <td>Quantité en stock actuelle d’un produit </td>
+        <td> </td>
+        <td>pourcentAchat </td>
+        <td>pourcentage d'achat d’un produit de l'opérateur </td>
+       </tr>
+       <tr>
+        <td>numCmd </td>
+        <td>Numéro d’une commande </td>
+        <td> </td>
+        <td>dateCmd </td>
+        <td>Date d'enregistrement d'une commande </td>
+       </tr>
+       <tr>
+        <td>reste </td>
+        <td>Reste à payer d'une commande </td>
+        <td> </td>
+        <td>montantHT </td>
+        <td>Montant d'une commande </td>
+       </tr>
+       <tr>
+        <td>etatP </td>
+        <td>Etat du paiement d'une commande </td>
+        <td> </td>
+        <td>dateAchat </td>
+        <td>date d’achat d’un produit en provenance d’un opérateur </td>
+       </tr>
+       <tr>
+        <td>nomCompUser </td>
+        <td>Nom complet d'un utilisateur </td>
+        <td> </td>
+        <td>SF </td>
+        <td>Stock final d'un produit pour une date donnée </td>
+       </tr>
+        <tr>
+        <td>dateArch </td>
+        <td>Date d'archivage d'un produit </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+       </tr>
+      
 </table>
   
+          2. Règles de gestion :
+          
+Ici on a travailler avec la méthode CASCADE, Après une profonde analyse du cahier de charges rédigé à partir des informations reçues du client, il a été conclu que le schéma conceptuel du projet doit se composer des entités suivantes:
