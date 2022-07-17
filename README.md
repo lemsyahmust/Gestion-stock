@@ -14,7 +14,7 @@
           
 <table>
        <tr>
-        <td><b>Libelle </b></td>
+        <td><b><u>Libelle </u></b></td>
         <td><b>Description </b></td>
         <td> </td>
         <td><b>Libelle </b></td>
