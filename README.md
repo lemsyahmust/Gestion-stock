@@ -12,7 +12,7 @@
   <h3>II. Analyse et Conception</h3>
           1. Dictionnaire de données:
           
-      <table>
+<table>
        <tr>
         <td>Libelle </td>
         <td>Description </td>
@@ -41,6 +41,19 @@
         <td>telSoc </td>
         <td>Numéro de téléphone d’un opérateur  </td>
        </tr>
-
-      </table>
+       <tr>
+        <td>codeRevend  </td>
+        <td>Identifiant d’un revendeur  </td>
+        <td> </td>
+        <td>codeCateg </td>
+        <td>Identifiant d’une catégorie produit </td>
+       </tr>
+       <tr>
+        <td>categPdt  </td>
+        <td>Nom d’une catégorie produit  </td>
+        <td> </td>
+        <td>typeCateg </td>
+        <td>Type d’une catégorie produit </td>
+       </tr>
+</table>
   
