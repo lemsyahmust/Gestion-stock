@@ -153,4 +153,4 @@
   
           2. Règles de gestion :
           
-Ici on a travailler avec la méthode CASCADE, Après une profonde analyse du cahier de charges rédigé à partir des informations reçues du client, il a été conclu que le schéma conceptuel du projet doit se composer des entités suivantes:
+Ici on a travailler avec la méthode <b>CASCADE</b>, Après une profonde analyse du cahier de charges rédigé à partir des informations reçues du client, il a été conclu que le schéma conceptuel du projet doit se composer des entités suivantes:
