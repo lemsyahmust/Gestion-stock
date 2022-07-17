@@ -15,10 +15,10 @@
 <table>
        <tr>
         <td><b>Libelle </b></td>
-        <td><U>Description </U></td>
+        <td><b>Description </b></td>
         <td> </td>
-        <td><U>Libelle </U></td>
-        <td><U>Description </U></td>
+        <td><b>Libelle </b></td>
+        <td><b>Description </b></td>
        </tr>
        <tr>
         <td>idGross  </td>
