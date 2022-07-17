@@ -22,6 +22,11 @@
         <td>TEST 22 <td>
         <td>TEST 33 <td>
        </tr>
+     <tr>
+        <td>TEST 111 <td>
+        <td>TEST 222 <td>
+        <td>TEST 333 <td>
+       </tr>
       </table>    
           
           2.	La méthode MERISE :
