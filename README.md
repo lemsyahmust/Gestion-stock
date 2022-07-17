@@ -55,15 +55,13 @@
         <td>typeCateg </td>
         <td>Type d’une catégorie produit </td>
        </tr>
- 
-        <tr>
+       <tr>
         <td>qteCmd  </td>
         <td>Quantité commandée d’un produit </td>
         <td> </td>
         <td>prixU </td>
         <td>Prix unitaire du produit commandé </td>
        </tr>
- 
        <tr>
         <td>totalPdt  </td>
         <td>Montant total d'un produit commandé </td>
@@ -71,7 +69,6 @@
         <td>qteAchat </td>
         <td>Quantité achetée d’un produit en provenance d’un opérateur </td>
        </tr>
- 
        <tr>
         <td>codeArchSt </td>
         <td>Identifiant d'un archive d'un produit </td>
@@ -79,6 +76,5 @@
         <td>SI </td>
         <td>Stock initial d'un produit pour une date donnée </td>
        </tr>
- 
 </table>
   
