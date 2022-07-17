@@ -76,5 +76,38 @@
         <td>SI </td>
         <td>Stock initial d'un produit pour une date donnée </td>
        </tr>
+       <tr>
+        <td>pourcentage </td>
+        <td>Pourcentage de revente d'un produit pour un revendeur </td>
+        <td> </td>
+        <td>idTypeUser </td>
+        <td>Type d'un utilisateur </td>
+       </tr>
+       <tr>
+        <td>nomRevend </td>
+        <td>Nom d’un revendeur </td>
+        <td> </td>
+        <td>adrRevend </td>
+        <td>Adresse d’un revendeur </td>
+       </tr>
+       <tr>
+        <td>telRevend </td>
+        <td>Numéro de téléphone d’un revendeur </td>
+        <td> </td>
+        <td>codePdt </td>
+        <td>Identifiant d’un produit </td>
+       </tr>
+       <tr>
+        <td>desigPdt </td>
+        <td>Désignation d’un produit </td>
+        <td> </td>
+        <td>prixPdt </td>
+        <td>Prix client d’un produit </td>
+       </tr>
+       
+       
+       
+       
+       
 </table>
   
