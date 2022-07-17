@@ -31,6 +31,11 @@
         <td>Capital du grossiste  </td>
       <td> </td>
        </tr>
+  <tr>
+        <td>codeSoc </td>
+        <td>Code d’un opérateur  </td>
+      <td> </td>
+       </tr>
       </table>    
           
           2.	La méthode MERISE :
