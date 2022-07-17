@@ -14,7 +14,7 @@
           
 <table>
        <tr>
-        <td><b><u>Libelle </u></b></td>
+        <td><b>Libelle </b></td>
         <td><b>Description </b></td>
         <td> </td>
         <td><b>Libelle </b></td>
@@ -55,5 +55,30 @@
         <td>typeCateg </td>
         <td>Type d’une catégorie produit </td>
        </tr>
+ 
+        <tr>
+        <td>qteCmd  </td>
+        <td>Quantité commandée d’un produit </td>
+        <td> </td>
+        <td>prixU </td>
+        <td>Prix unitaire du produit commandé </td>
+       </tr>
+ 
+       <tr>
+        <td>totalPdt  </td>
+        <td>Montant total d'un produit commandé </td>
+        <td> </td>
+        <td>qteAchat </td>
+        <td>Quantité achetée d’un produit en provenance d’un opérateur </td>
+       </tr>
+ 
+       <tr>
+        <td>codeArchSt </td>
+        <td>Identifiant d'un archive d'un produit </td>
+        <td> </td>
+        <td>SI </td>
+        <td>Stock initial d'un produit pour une date donnée </td>
+       </tr>
+ 
 </table>
   
