@@ -13,19 +13,16 @@
           1. Dictionnaire de données:
       <table>
        <tr>
-        <td>TEST 1 </td>
-        <td>TEST 2 </td>
-        <td>TEST 3 </td>
+        <td>Libelle </td>
+        <td>Description </td>
        </tr>
        <tr>
-        <td>TEST 11 </td>
-        <td>TEST 22 </td>
-        <td>TEST 33 </td>
+        <td>idGross  </td>
+        <td>Identifiant du grossiste </td>
        </tr>
      <tr>
-        <td>TEST 111 </td>
-        <td>TEST 222 </td>
-        <td>TEST 333 </td>
+        <td>nomGross  </td>
+        <td>Nom du grossiste  </td>
        </tr>
       </table>    
           
