@@ -169,4 +169,9 @@
 
 Merise est une méthode d'analyse, de conception et de gestion de projet informatique.
 
+          3-1. Modèle Conceptuel de Données (MCD) :
+          
+Le schéma du MCD suivant décrit les différentes entités ainsi que les relations existantes entre elles.
+
+![MCD](https://user-images.githubusercontent.com/83125801/179428779-889286e8-727d-4fb6-804d-2a339afc4266.png)
 
