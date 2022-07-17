@@ -27,7 +27,7 @@
         <td>nomGross  </td>
         <td>Nom du grossiste  </td>
        </tr>
-     <tr>
+       <tr>
         <td>capital  </td>
         <td>Capital du grossiste  </td>
         <td> </td>
@@ -41,7 +41,7 @@
         <td>telSoc </td>
         <td>Numéro de téléphone d’un opérateur  </td>
        </tr>
-        <tr>
+       <tr>
         <td>codeRevend  </td>
         <td>Identifiant d’un revendeur  </td>
         <td> </td>
@@ -55,6 +55,5 @@
         <td>typeCateg </td>
         <td>Type d’une catégorie produit </td>
        </tr>
- 
       </table>
   
