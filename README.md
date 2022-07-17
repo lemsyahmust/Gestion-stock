@@ -16,15 +16,19 @@
         <td>Libelle </td>
         <td>Description </td>
         <td> </td>
+        <td>Libelle </td>
+        <td>Description </td>
        </tr>
        <tr>
         <td>idGross  </td>
         <td>Identifiant du grossiste </td>
         <td> </td>
-       </tr>
-     <tr>
         <td>nomGross  </td>
         <td>Nom du grossiste  </td>
+       </tr>
+     <tr>
+        <td>capital  </td>
+        <td>Capital du grossiste  </td>
       <td> </td>
        </tr>
       </table>    
