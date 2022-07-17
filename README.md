@@ -49,7 +49,7 @@
         <td>Identifiant d’une catégorie produit </td>
        </tr>
  
-         <tr>
+       <tr>
         <td>categPdt  </td>
         <td>Nom d’une catégorie produit  </td>
         <td> </td>
@@ -57,10 +57,5 @@
         <td>Type d’une catégorie produit </td>
        </tr>
  
- 
-      </table>    
-          
-          2.	La méthode MERISE :
-      Merise est une méthode d'analyse, de conception et de gestion de projet informatique.
-      
+      </table>
   
