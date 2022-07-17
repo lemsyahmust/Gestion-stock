@@ -29,12 +29,16 @@
      <tr>
         <td>capital  </td>
         <td>Capital du grossiste  </td>
-      <td> </td>
-       </tr>
-  <tr>
+        <td> </td>
         <td>codeSoc </td>
         <td>Code d’un opérateur  </td>
-      <td> </td>
+       </tr>
+     <tr>
+        <td>nomSoc   </td>
+        <td>Nom d’un opérateur  </td>
+        <td> </td>
+        <td>telSoc </td>
+        <td>Numéro de téléphone d’un opérateur  </td>
        </tr>
       </table>    
           
