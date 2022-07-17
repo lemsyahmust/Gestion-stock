@@ -171,7 +171,12 @@ Merise est une méthode d'analyse, de conception et de gestion de projet informa
 
           3-1. Modèle Conceptuel de Données (MCD) :
           
-Le schéma du MCD suivant décrit les différentes entités ainsi que les relations existantes entre elles.
+Le schéma du MCD suivant décrit les différentes entités ainsi que les relations existantes entre elles : 
 
 ![MCD](https://user-images.githubusercontent.com/83125801/179428779-889286e8-727d-4fb6-804d-2a339afc4266.png)
+
+          3-2. Modèle Physique de Données (MPD) :
+
+Presque identique au MCD, le MPD traduit les relations porteuses en des tables, ce qui est représenté dans le schéma suivant :
+![MPD](https://user-images.githubusercontent.com/83125801/179428834-507b1363-7145-4391-b984-41429320569f.png)
 
