@@ -220,33 +220,54 @@ Public Class GestStock
 
     End Sub
 
+    Private Sub RB_Charger_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Charger.Click
 
-    Private Sub RB_Charger_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Charger.CheckedChanged
+        lblModifSt.Visible = False
+        DataGridView1.Columns(5).Visible = False
+        viderConsult()
+        pn_ConsultArchiv.Visible = False
+        lblChargement.Visible = False
+        pn_chargeSt.Visible = True
 
-        If RB_Charger.Checked = True Then
+        cn.Close()
+        cn.Open()
 
-            lblModifSt.Visible = False
-            DataGridView1.Columns(5).Visible = False
-            viderConsult()
-            pn_ConsultArchiv.Visible = False
-            lblChargement.Visible = False
-            pn_chargeSt.Visible = True
+        cmd = New SqlCommand("select capital from Grossiste", cn)
+        cap = cmd.ExecuteScalar
 
-            cn.Close()
-            cn.Open()
+        cn.Close()
 
-            cmd = New SqlCommand("select capital from Grossiste", cn)
-            cap = cmd.ExecuteScalar
+        lblCap.Text = "Capital : " & cap & ""
+        lblCap.Visible = True
 
-            cn.Close()
-
-            lblCap.Text = "Capital : " & cap & ""
-            lblCap.Visible = True
-
-
-
-        End If
     End Sub
+
+    'Private Sub RB_Charger_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Charger.CheckedChanged
+
+    '    If RB_Charger.Checked = True Then
+
+    '        lblModifSt.Visible = False
+    '        DataGridView1.Columns(5).Visible = False
+    '        viderConsult()
+    '        pn_ConsultArchiv.Visible = False
+    '        lblChargement.Visible = False
+    '        pn_chargeSt.Visible = True
+
+    '        cn.Close()
+    '        cn.Open()
+
+    '        cmd = New SqlCommand("select capital from Grossiste", cn)
+    '        cap = cmd.ExecuteScalar
+
+    '        cn.Close()
+
+    '        lblCap.Text = "Capital : " & cap & ""
+    '        lblCap.Visible = True
+
+
+
+    '    End If
+    'End Sub
 
     'Sub alimenterSocietes()
 
@@ -398,7 +419,7 @@ Public Class GestStock
 
     Private Sub BT_fermerR_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BT_fermerAj.Click
 
-        RB_Charger.Checked = False
+        'RB_Charger.Checked = False
         viderCharg()
         pn_chargeSt.Visible = False
         BT_fermerAj.Visible = False
@@ -585,53 +606,96 @@ Public Class GestStock
 
     End Sub
 
+    Private Sub RB_Consulter_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Consulter.Click
 
-    Private Sub RB_Rechercher_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Consulter.CheckedChanged
+        lblModifSt.Visible = False
+        DataGridView1.Columns(5).Visible = False
+        pn_chargeSt.Visible = False
+        viderCharg()
+        pn_ConsultArchiv.Visible = True
+        BtFerRech.Visible = True
+        cn.Close()
+        cn.Open()
 
-        If RB_Consulter.Checked = True Then
+        cmd = New SqlCommand("select distinct YEAR(dateArch) from ArchiveStock where YEAR(dateArch) > 2011", cn)
+        dr = cmd.ExecuteReader
 
-            lblModifSt.Visible = False
-            DataGridView1.Columns(5).Visible = False
-            pn_chargeSt.Visible = False
-            viderCharg()
-            pn_ConsultArchiv.Visible = True
-            BtFerRech.Visible = True
-            cn.Close()
-            cn.Open()
-
-            cmd = New SqlCommand("select distinct YEAR(dateArch) from ArchiveStock where YEAR(dateArch) > 2011", cn)
-            dr = cmd.ExecuteReader
-
-            cbRechAn.Text = ""
-            cbRechAn.Items.Clear()
+        cbRechAn.Text = ""
+        cbRechAn.Items.Clear()
 
 
-            Do While dr.Read
-                cbRechAn.Items.Add(dr(0))
-            Loop
+        Do While dr.Read
+            cbRechAn.Items.Add(dr(0))
+        Loop
 
-            dr.Close()
+        dr.Close()
 
-            cbRechAn.Visible = True
-            lblAnnee.Visible = True
+        cbRechAn.Visible = True
+        lblAnnee.Visible = True
 
-            'cmd = New SqlCommand("select distinct MONTH(dateArch) from ArchiveStock where YEAR(dateArch) > 2011", cn)
-            'dr = cmd.ExecuteReader
-            'Cb_Reche_Mois.Text = ""
-            'Cb_Reche_Mois.Items.Clear()
+        'cmd = New SqlCommand("select distinct MONTH(dateArch) from ArchiveStock where YEAR(dateArch) > 2011", cn)
+        'dr = cmd.ExecuteReader
+        'Cb_Reche_Mois.Text = ""
+        'Cb_Reche_Mois.Items.Clear()
 
-            'Do While dr.Read
-            '    convertNumMois(dr(0))
-            'Loop
+        'Do While dr.Read
+        '    convertNumMois(dr(0))
+        'Loop
 
-            'Cb_Reche_Mois.Visible = True
-            'lblMois.Visible = True
+        'Cb_Reche_Mois.Visible = True
+        'lblMois.Visible = True
 
-            viderDG1()
+        viderDG1()
 
 
-        End If
     End Sub
+
+    'Private Sub RB_Rechercher_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Consulter.CheckedChanged
+
+    '    If RB_Consulter.Checked = True Then
+
+    '        lblModifSt.Visible = False
+    '        DataGridView1.Columns(5).Visible = False
+    '        pn_chargeSt.Visible = False
+    '        viderCharg()
+    '        pn_ConsultArchiv.Visible = True
+    '        BtFerRech.Visible = True
+    '        cn.Close()
+    '        cn.Open()
+
+    '        cmd = New SqlCommand("select distinct YEAR(dateArch) from ArchiveStock where YEAR(dateArch) > 2011", cn)
+    '        dr = cmd.ExecuteReader
+
+    '        cbRechAn.Text = ""
+    '        cbRechAn.Items.Clear()
+
+
+    '        Do While dr.Read
+    '            cbRechAn.Items.Add(dr(0))
+    '        Loop
+
+    '        dr.Close()
+
+    '        cbRechAn.Visible = True
+    '        lblAnnee.Visible = True
+
+    '        'cmd = New SqlCommand("select distinct MONTH(dateArch) from ArchiveStock where YEAR(dateArch) > 2011", cn)
+    '        'dr = cmd.ExecuteReader
+    '        'Cb_Reche_Mois.Text = ""
+    '        'Cb_Reche_Mois.Items.Clear()
+
+    '        'Do While dr.Read
+    '        '    convertNumMois(dr(0))
+    '        'Loop
+
+    '        'Cb_Reche_Mois.Visible = True
+    '        'lblMois.Visible = True
+
+    '        viderDG1()
+
+
+    '    End If
+    'End Sub
 
     Sub convertNumMois(ByVal a As Integer)
 
@@ -879,8 +943,8 @@ Public Class GestStock
         BtFerRech.Visible = False
         pn_chargeSt.Visible = False
         pn_ConsultArchiv.Visible = False
-        RB_Charger.Checked = False
-        RB_Consulter.Checked = False
+        'RB_Charger.Checked = False
+        ' RB_Consulter.Checked = False
 
 
     End Sub
@@ -895,7 +959,7 @@ Public Class GestStock
         lblMois.Visible = False
         cb_RechJour.Visible = False
         Cb_Reche_Mois.Visible = False
-        RB_Consulter.Checked = False
+        'RB_Consulter.Checked = False
 
     End Sub
 

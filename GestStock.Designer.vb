@@ -40,8 +40,12 @@ Partial Class GestStock
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.RB_Charger = New System.Windows.Forms.RadioButton()
-        Me.RB_Consulter = New System.Windows.Forms.RadioButton()
+
+        'Me.RB_Charger = New System.Windows.Forms.RadioButton()
+        'Me.RB_Consulter = New System.Windows.Forms.RadioButton()
+        Me.RB_Charger = New System.Windows.Forms.Button()
+        Me.RB_Consulter = New System.Windows.Forms.Button()
+
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Entrées = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Désignation = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -277,24 +281,24 @@ Partial Class GestStock
         '
         'RB_Charger
         '
-        Me.RB_Charger.AutoSize = True
+        ' Me.RB_Charger.AutoSize = True
         Me.RB_Charger.BackColor = System.Drawing.Color.Transparent
         Me.RB_Charger.Font = New System.Drawing.Font("Georgia", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RB_Charger.Location = New System.Drawing.Point(563, 71)
         Me.RB_Charger.Name = "RB_Charger"
-        Me.RB_Charger.Size = New System.Drawing.Size(92, 22)
+        Me.RB_Charger.Size = New System.Drawing.Size(92, 40)
         Me.RB_Charger.TabIndex = 37
         Me.RB_Charger.Text = "Charger"
         Me.RB_Charger.UseVisualStyleBackColor = False
         '
         'RB_Consulter
         '
-        Me.RB_Consulter.AutoSize = True
+        ' Me.RB_Consulter.AutoSize = True
         Me.RB_Consulter.BackColor = System.Drawing.Color.Transparent
         Me.RB_Consulter.Font = New System.Drawing.Font("Georgia", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RB_Consulter.Location = New System.Drawing.Point(680, 71)
         Me.RB_Consulter.Name = "RB_Consulter"
-        Me.RB_Consulter.Size = New System.Drawing.Size(107, 22)
+        Me.RB_Consulter.Size = New System.Drawing.Size(107, 40)
         Me.RB_Consulter.TabIndex = 36
         Me.RB_Consulter.Text = "Consulter"
         Me.RB_Consulter.UseVisualStyleBackColor = False
@@ -519,8 +523,12 @@ Partial Class GestStock
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents RB_Charger As System.Windows.Forms.RadioButton
-    Friend WithEvents RB_Consulter As System.Windows.Forms.RadioButton
+
+    'Friend WithEvents RB_Charger As System.Windows.Forms.RadioButton
+    'Friend WithEvents RB_Consulter As System.Windows.Forms.RadioButton
+    Friend WithEvents RB_Charger As System.Windows.Forms.Button
+    Friend WithEvents RB_Consulter As System.Windows.Forms.Button
+
     Friend WithEvents lblEch As System.Windows.Forms.Label
     Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
     Friend WithEvents pn_ConsultArchiv As System.Windows.Forms.Panel
