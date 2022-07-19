@@ -36,8 +36,12 @@ Partial Class GestClients
         Me.Nom = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Adresse = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Tel = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.RB_Rechercher = New System.Windows.Forms.RadioButton()
-        Me.RB_Ajouter = New System.Windows.Forms.RadioButton()
+
+        ' Me.RB_Rechercher = New System.Windows.Forms.RadioButton()
+        ' Me.RB_Ajouter = New System.Windows.Forms.RadioButton()
+        Me.RB_Rechercher = New System.Windows.Forms.Button()
+        Me.RB_Ajouter = New System.Windows.Forms.Button()
+
         Me.pn_Ajouter = New System.Windows.Forms.Panel()
         Me.ck_CliNorm = New System.Windows.Forms.CheckBox()
         Me.ck_Pourcentages = New System.Windows.Forms.CheckBox()
@@ -171,13 +175,13 @@ Partial Class GestClients
         '
         'RB_Rechercher
         '
-        Me.RB_Rechercher.AutoSize = True
+        'Me.RB_Rechercher.AutoSize = True
         Me.RB_Rechercher.BackColor = System.Drawing.Color.Transparent
         Me.RB_Rechercher.Font = New System.Drawing.Font("Georgia", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RB_Rechercher.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.RB_Rechercher.Location = New System.Drawing.Point(708, 82)
         Me.RB_Rechercher.Name = "RB_Rechercher"
-        Me.RB_Rechercher.Size = New System.Drawing.Size(107, 22)
+        Me.RB_Rechercher.Size = New System.Drawing.Size(107, 50)
         Me.RB_Rechercher.TabIndex = 23
         Me.RB_Rechercher.TabStop = True
         Me.RB_Rechercher.Text = "Consulter"
@@ -185,13 +189,13 @@ Partial Class GestClients
         '
         'RB_Ajouter
         '
-        Me.RB_Ajouter.AutoSize = True
+        ' Me.RB_Ajouter.AutoSize = True
         Me.RB_Ajouter.BackColor = System.Drawing.Color.Transparent
         Me.RB_Ajouter.Font = New System.Drawing.Font("Georgia", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RB_Ajouter.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.RB_Ajouter.Location = New System.Drawing.Point(577, 82)
         Me.RB_Ajouter.Name = "RB_Ajouter"
-        Me.RB_Ajouter.Size = New System.Drawing.Size(88, 22)
+        Me.RB_Ajouter.Size = New System.Drawing.Size(88, 50)
         Me.RB_Ajouter.TabIndex = 24
         Me.RB_Ajouter.TabStop = True
         Me.RB_Ajouter.Text = "Ajouter"
@@ -512,8 +516,12 @@ Partial Class GestClients
     Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
     ' Friend WithEvents RevendeurTableAdapter1 As WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.RevendeurTableAdapter
     Friend WithEvents BT_Annuler As System.Windows.Forms.Button
-    Friend WithEvents RB_Rechercher As System.Windows.Forms.RadioButton
-    Friend WithEvents RB_Ajouter As System.Windows.Forms.RadioButton
+    'Friend WithEvents RB_Rechercher As System.Windows.Forms.RadioButton
+    'Friend WithEvents RB_Ajouter As System.Windows.Forms.RadioButton
+
+    Friend WithEvents RB_Rechercher As System.Windows.Forms.Button
+    Friend WithEvents RB_Ajouter As System.Windows.Forms.Button
+
     Friend WithEvents pn_Ajouter As System.Windows.Forms.Panel
     Friend WithEvents txtteler As System.Windows.Forms.TextBox
     Friend WithEvents txtadr As System.Windows.Forms.TextBox

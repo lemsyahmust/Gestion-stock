@@ -11,8 +11,8 @@ Public Class GestProduits
         
 
         alimenterDG()
-        RB_Ajouter.Checked = False
-        RB_Rechercher.Checked = False
+        'RB_Ajouter.Checked = False
+        'RB_Rechercher.Checked = False
 
         editP.HeaderText = "Modifier"
         editP.Text = "M"
@@ -105,11 +105,8 @@ Public Class GestProduits
 
     End Sub
 
-    Private Sub RB_Rechercher_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Rechercher.CheckedChanged
-
-        If RB_Rechercher.Checked = True Then
-
-            RB_Ajouter.Checked = False
+    Private Sub RB_Rechercher_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Rechercher.Click
+        'RB_Ajouter.Checked = False
         DataGridView1.Rows.Clear()
         txtDesig.Clear()
         RB_ModemR.Checked = False
@@ -123,17 +120,39 @@ Public Class GestProduits
         lblmodif.Visible = False
         lblmodife.Visible = False
         viderAjout()
-            '   alimenterCB_Produits()
-            cb_RechPdt.Text = ""
+        '   alimenterCB_Produits()
+        cb_RechPdt.Text = ""
         pn_Ajouter.Visible = False
         pn_Rechercher.Visible = True
-            BtFerRech.Visible = True
-        End If
+        BtFerRech.Visible = True
 
     End Sub
+    'Private Sub RB_Rechercher_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Rechercher.CheckedChanged
 
-   
-    
+    '    If RB_Rechercher.Checked = True Then
+
+    '        'RB_Ajouter.Checked = False
+    '        DataGridView1.Rows.Clear()
+    '    txtDesig.Clear()
+    '    RB_ModemR.Checked = False
+    '    RB_PortableR.Checked = False
+    '    RB_PuceR.Checked = False
+    '    RB_RechargeR.Checked = False
+
+    '    lblAjout.Visible = False
+    '    lblSupp.Visible = False
+    '    lblSuppe.Visible = False
+    '    lblmodif.Visible = False
+    '    lblmodife.Visible = False
+    '    viderAjout()
+    '        '   alimenterCB_Produits()
+    '        cb_RechPdt.Text = ""
+    '    pn_Ajouter.Visible = False
+    '    pn_Rechercher.Visible = True
+    '        BtFerRech.Visible = True
+    '    End If
+
+    'End Sub
 
     Private Sub cb_RechPdt_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cb_RechPdt.SelectedIndexChanged
 
@@ -168,33 +187,54 @@ Public Class GestProduits
 
     End Sub
 
-    Private Sub RB_Ajouter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.CheckedChanged
-        If RB_Ajouter.Checked = True Then
+    ' Private Sub RB_Ajouter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.CheckedChanged
+    ' If RB_Ajouter.Checked = True Then
 
-            RB_Recharge.Checked = False
-            RB_Modem.Checked = False
-            RB_Portable.Checked = False
-            RB_Puce.Checked = False
-            cb_categPdt.Items.Clear()
+    '        RB_Recharge.Checked = False
+    '       RB_Modem.Checked = False
+    '      RB_Portable.Checked = False
+    '     RB_Puce.Checked = False
+    '    cb_categPdt.Items.Clear()
 
-            RB_Rechercher.Checked = False
-            DataGridView1.Rows.Clear()
-            lblAjout.Visible = False
-            lblSupp.Visible = False
-            lblSuppe.Visible = False
-            lblmodif.Visible = False
-            lblmodife.Visible = False
-            alimenterDG()
-            pn_Rechercher.Visible = False
-            pn_Ajouter.Visible = True
-            BtFerAj.Visible = True
-            '    RB_Ajouter.Checked = False
+    '   RB_Rechercher.Checked = False
+    'DataGridView1.Rows.Clear()
+    'lblAjout.Visible = False
+    'lblSupp.Visible = False
+    'lblSuppe.Visible = False
+    'lblmodif.Visible = False
+    'lblmodife.Visible = False
+    'alimenterDG()
+    'pn_Rechercher.Visible = False
+    'pn_Ajouter.Visible = True
+    'BtFerAj.Visible = True
+    ''    RB_Ajouter.Checked = False
 
 
-        End If
+    'End If
+    'End Sub 
+
+    Private Sub RB_Ajouter_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.Click
+
+        RB_Recharge.Checked = False
+        RB_Modem.Checked = False
+        RB_Portable.Checked = False
+        RB_Puce.Checked = False
+        cb_categPdt.Items.Clear()
+
+        'RB_Rechercher.Checked = False
+        DataGridView1.Rows.Clear()
+        lblAjout.Visible = False
+        lblSupp.Visible = False
+        lblSuppe.Visible = False
+        lblmodif.Visible = False
+        lblmodife.Visible = False
+        alimenterDG()
+        pn_Rechercher.Visible = False
+        pn_Ajouter.Visible = True
+        BtFerAj.Visible = True
+
     End Sub
 
-   
     Private Sub bn_Ajouter_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles bn_Ajouter.Click
 
         If txtDesig.Text = "" Or txtPrix.Text = "" Then
@@ -426,8 +466,8 @@ Public Class GestProduits
         cb_RechPdt.Items.Clear()
         cb_RechPdt.Text = ""
 
-        RB_Rechercher.Checked = False
-        RB_Ajouter.Checked = False
+        'RB_Rechercher.Checked = False
+        'RB_Ajouter.Checked = False
 
         viderAjout()
         viderRech()
@@ -742,8 +782,8 @@ Public Class GestProduits
 
     Private Sub BtFerRech_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BtFerRech.Click
         viderRech()
-        RB_Rechercher.Checked = False
-        RB_Ajouter.Checked = False
+        'RB_Rechercher.Checked = False
+        'RB_Ajouter.Checked = False
         pn_Rechercher.Visible = False
         BtFerRech.Visible = False
     End Sub
@@ -800,8 +840,8 @@ Public Class GestProduits
         viderAjout()
         pn_Ajouter.Visible = False
         BtFerAj.Visible = False
-        RB_Ajouter.Checked = False
-        RB_Rechercher.Checked = False
+        'RB_Ajouter.Checked = False
+        'RB_Rechercher.Checked = False
     End Sub
 
     Private Sub cb_categPdt_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles cb_categPdt.KeyDown

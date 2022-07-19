@@ -27,9 +27,15 @@ Partial Class GestProduits
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.RB_Ajouter = New System.Windows.Forms.RadioButton()
-        Me.RB_Rechercher = New System.Windows.Forms.RadioButton()
+
+        Me.RB_Ajouter = New System.Windows.Forms.Button()
+        Me.RB_Rechercher = New System.Windows.Forms.Button()
+        ' Me.RB_Rechercher = New System.Windows.Forms.RadioButton()
+
+
         Me.pn_Rechercher = New System.Windows.Forms.Panel()
+
+
         Me.BtFerRech = New System.Windows.Forms.Button()
         Me.RB_ModemR = New System.Windows.Forms.RadioButton()
         Me.RB_PuceR = New System.Windows.Forms.RadioButton()
@@ -83,24 +89,24 @@ Partial Class GestProduits
         '
         'RB_Ajouter
         '
-        Me.RB_Ajouter.AutoSize = True
+
         Me.RB_Ajouter.BackColor = System.Drawing.Color.Transparent
         Me.RB_Ajouter.Font = New System.Drawing.Font("Georgia", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RB_Ajouter.Location = New System.Drawing.Point(573, 77)
         Me.RB_Ajouter.Name = "RB_Ajouter"
-        Me.RB_Ajouter.Size = New System.Drawing.Size(88, 22)
+        Me.RB_Ajouter.Size = New System.Drawing.Size(88, 50)
         Me.RB_Ajouter.TabIndex = 31
         Me.RB_Ajouter.Text = "Ajouter"
         Me.RB_Ajouter.UseVisualStyleBackColor = False
         '
         'RB_Rechercher
         '
-        Me.RB_Rechercher.AutoSize = True
+        'Me.RB_Rechercher.AutoSize = True
         Me.RB_Rechercher.BackColor = System.Drawing.Color.Transparent
         Me.RB_Rechercher.Font = New System.Drawing.Font("Georgia", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RB_Rechercher.Location = New System.Drawing.Point(690, 77)
         Me.RB_Rechercher.Name = "RB_Rechercher"
-        Me.RB_Rechercher.Size = New System.Drawing.Size(107, 22)
+        Me.RB_Rechercher.Size = New System.Drawing.Size(107, 50)
         Me.RB_Rechercher.TabIndex = 30
         Me.RB_Rechercher.Text = "Consulter"
         Me.RB_Rechercher.UseVisualStyleBackColor = False
@@ -528,8 +534,10 @@ Partial Class GestProduits
 
     End Sub
     Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents RB_Ajouter As System.Windows.Forms.RadioButton
-    Friend WithEvents RB_Rechercher As System.Windows.Forms.RadioButton
+
+    Friend WithEvents RB_Ajouter As System.Windows.Forms.Button
+    Friend WithEvents RB_Rechercher As System.Windows.Forms.Button
+    ' Friend WithEvents RB_Rechercher As System.Windows.Forms.RadioButton
     Friend WithEvents pn_Rechercher As System.Windows.Forms.Panel
     Friend WithEvents cb_RechPdt As System.Windows.Forms.ComboBox
     Friend WithEvents Label2 As System.Windows.Forms.Label
