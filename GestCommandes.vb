@@ -416,8 +416,8 @@ Public Class GestCommandes
 
 
         alimenterDG_Commandes()
-        RB_Ajouter.Checked = False
-        RB_Consulter.Checked = False
+        'RB_Ajouter.Checked = False
+        'RB_Consulter.Checked = False
 
         editCmd.HeaderText = "Modifier"
         editCmd.Text = "M"
@@ -1421,8 +1421,7 @@ Public Class GestCommandes
         LblMp.Visible = False
     End Sub
 
-
-    Private Sub RB_Ajouter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.CheckedChanged
+    Private Sub RB_Ajouter_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.Click
 
         lblAjout.Visible = False
         lblCreditDH.Visible = False
@@ -1460,9 +1459,49 @@ Public Class GestCommandes
 
         BT_fermerDG2.Visible = False
 
-
-
     End Sub
+
+    'Private Sub RB_Ajouter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.CheckedChanged
+
+    '    lblAjout.Visible = False
+    '    lblCreditDH.Visible = False
+    '    lblSupp.Visible = False
+    '    lblSuppe.Visible = False
+    '    lblModifDC.Visible = False
+    '    lblModifDCe.Visible = False
+    '    lblRetech.Visible = False
+    '    lblRetPdt.Visible = False
+    '    lblAjout.Visible = False
+
+    '    viderDG1()
+    '    alimenterDG_Commandes()
+
+
+    '    viderCmdC()
+    '    viderCmdR()
+    '    viderRech()
+
+    '    viderDG2()
+    '    DataGridView2.Visible = False
+    '    BT_fermerDG2.Visible = False
+    '    PnPaiement.Visible = False
+    '    pn_CreatCmd.Visible = True
+    '    BtFerC.Visible = True
+    '    pn_RempCmd.Visible = False
+    '    pn_RecherCmd.Visible = False
+
+    '    alimenterCB_Revendeurs()
+    '    '  txtNumCmd.Enabled = False
+
+    '    '    Dim n As Integer = N_L()
+    '    '    txtNumCmd.Text = n + 1
+
+
+    '    BT_fermerDG2.Visible = False
+
+
+
+    'End Sub
 
     Sub viderCmdR()
 
@@ -1683,29 +1722,47 @@ Public Class GestCommandes
 
     End Sub
 
+    Private Sub RB_Consulter_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Consulter.Click
 
-    Private Sub RB_Consulter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Consulter.CheckedChanged
-
-        If RB_Consulter.Checked = True Then
-
-            lblSupp.Visible = False
-            lblSuppe.Visible = False
-            lblModifDC.Visible = False
-            lblModifDCe.Visible = False
-            lblRetech.Visible = False
-            lblRetPdt.Visible = False
-            lblAjout.Visible = False
-            LblMp.Visible = False
-            viderDG1()
-            viderDG2()
-            PnPaiement.Visible = False
-            pn_RecherCmd.Visible = True
-            BtFermerRech.Visible = True
-            pn_CreatCmd.Visible = False
-
-        End If
+        lblSupp.Visible = False
+        lblSuppe.Visible = False
+        lblModifDC.Visible = False
+        lblModifDCe.Visible = False
+        lblRetech.Visible = False
+        lblRetPdt.Visible = False
+        lblAjout.Visible = False
+        LblMp.Visible = False
+        viderDG1()
+        viderDG2()
+        PnPaiement.Visible = False
+        pn_RecherCmd.Visible = True
+        BtFermerRech.Visible = True
+        pn_CreatCmd.Visible = False
 
     End Sub
+
+    'Private Sub RB_Consulter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Consulter.CheckedChanged
+
+    '    If RB_Consulter.Checked = True Then
+
+    '        lblSupp.Visible = False
+    '        lblSuppe.Visible = False
+    '        lblModifDC.Visible = False
+    '        lblModifDCe.Visible = False
+    '        lblRetech.Visible = False
+    '        lblRetPdt.Visible = False
+    '        lblAjout.Visible = False
+    '        LblMp.Visible = False
+    '        viderDG1()
+    '        viderDG2()
+    '        PnPaiement.Visible = False
+    '        pn_RecherCmd.Visible = True
+    '        BtFermerRech.Visible = True
+    '        pn_CreatCmd.Visible = False
+
+    '    End If
+
+    'End Sub
 
     Sub alimenterCb_Reche_Revend()
 

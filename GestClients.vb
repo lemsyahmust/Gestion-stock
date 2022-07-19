@@ -144,9 +144,9 @@ Public Class GestClients
         cn.Close()
         cn.Open()
 
-        RB_Rechercher.Checked = False
-        RB_Ajouter.Checked = False
-     
+        'RB_Rechercher.Checked = False
+        'RB_Ajouter.Checked = False
+
         vider()
         alimenterDG()
 
@@ -281,7 +281,7 @@ Public Class GestClients
 
     End Sub
 
-    Private Sub RadioButton1_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Rechercher.CheckedChanged
+    Private Sub RB_Rechercher_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Rechercher.Click
 
         BTModifPourc.Visible = False
         DataGridView2.Rows.Clear()
@@ -299,9 +299,30 @@ Public Class GestClients
         pn_Rechercher.Visible = True
         ck_Pourcentages.Checked = False
         ck_CliNorm.Checked = False
+
     End Sub
 
-   
+    'Private Sub RadioButton1_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Rechercher.CheckedChanged
+
+    '    BTModifPourc.Visible = False
+    '    DataGridView2.Rows.Clear()
+    '    DataGridView2.Visible = False
+    '    lblAjout.Visible = False
+    '    lblmodif.Visible = False
+    '    lblmodife.Visible = False
+    '    lblSupp.Visible = False
+    '    lblSuppe.Visible = False
+    '    lblModifPourc.Visible = False
+    '    lblModifPourcE.Visible = False
+    '    vider()
+    '    alimenterCB_Clients()
+    '    pn_Ajouter.Visible = False
+    '    pn_Rechercher.Visible = True
+    '    ck_Pourcentages.Checked = False
+    '    ck_CliNorm.Checked = False
+    'End Sub
+
+
 
     Private Sub RB_Supprimer_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs)
 
@@ -488,37 +509,55 @@ Public Class GestClients
         pn_Rechercher.Visible = False
     End Sub
 
-    Private Sub RB_Ajouter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.CheckedChanged
-        If RB_Ajouter.Checked = True Then
+    Private Sub RB_Ajouter_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.Click
 
-            vider()
-            ck_Pourcentages.Checked = False
-            BTModifPourc.Visible = False
-            DataGridView2.Rows.Clear()
-            DataGridView2.Visible = False
-            lblAjout.Visible = False
-            lblmodif.Visible = False
-            lblmodife.Visible = False
-            lblSupp.Visible = False
-            lblSuppe.Visible = False
-            lblModifPourc.Visible = False
-            lblModifPourcE.Visible = False
-            viderDGPourcent()
-            alimenterDG()
-            pn_Rechercher.Visible = False
-            pn_Ajouter.Visible = True
+        vider()
+        ck_Pourcentages.Checked = False
+        BTModifPourc.Visible = False
+        DataGridView2.Rows.Clear()
+        DataGridView2.Visible = False
+        lblAjout.Visible = False
+        lblmodif.Visible = False
+        lblmodife.Visible = False
+        lblSupp.Visible = False
+        lblSuppe.Visible = False
+        lblModifPourc.Visible = False
+        lblModifPourcE.Visible = False
+        viderDGPourcent()
+        alimenterDG()
+        pn_Rechercher.Visible = False
+        pn_Ajouter.Visible = True
 
-        End If
     End Sub
+
+    'Private Sub RB_Ajouter_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RB_Ajouter.CheckedChanged
+    '    If RB_Ajouter.Checked = True Then
+
+    '        vider()
+    '        ck_Pourcentages.Checked = False
+    '        BTModifPourc.Visible = False
+    '        DataGridView2.Rows.Clear()
+    '        DataGridView2.Visible = False
+    '        lblAjout.Visible = False
+    '        lblmodif.Visible = False
+    '        lblmodife.Visible = False
+    '        lblSupp.Visible = False
+    '        lblSuppe.Visible = False
+    '        lblModifPourc.Visible = False
+    '        lblModifPourcE.Visible = False
+    '        viderDGPourcent()
+    '        alimenterDG()
+    '        pn_Rechercher.Visible = False
+    '        pn_Ajouter.Visible = True
+
+    '    End If
+    'End Sub
 
     Private Sub txt_nomr_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txt_nomr.KeyDown
         If e.KeyCode = Keys.Enter Then
             txtadr.Select()
         End If
     End Sub
-
-    
-
 
 
     Private Sub txt_nomr_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txt_nomr.TextChanged
@@ -588,8 +627,7 @@ Public Class GestClients
         End If
     End Sub
 
-   
-    
+
     Private Sub txtadr_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtadr.TextChanged
         lblAjout.Visible = False
         lblmodif.Visible = False
@@ -650,18 +688,11 @@ Public Class GestClients
 
     Private Sub txtp_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs)
 
-
-
-
         lblAjout.Visible = False
         lblmodif.Visible = False
         lblmodife.Visible = False
         lblSupp.Visible = False
         lblSuppe.Visible = False
-
-
-
-
 
     End Sub
 
@@ -672,7 +703,7 @@ Public Class GestClients
     End Sub
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BtFerRch.Click
-        RB_Rechercher.Checked = False
+        'RB_Rechercher.Checked = False
         viderRechCli()
         BtFerRch.Visible = False
         pn_Rechercher.Visible = False
@@ -681,7 +712,7 @@ Public Class GestClients
     Private Sub BtFerAj_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BtFerAj.Click
 
         BTModifPourc.Visible = False
-        RB_Ajouter.Checked = False
+        'RB_Ajouter.Checked = False
         viderAjout()
         BtFerAj.Visible = False
         pn_Ajouter.Visible = False
