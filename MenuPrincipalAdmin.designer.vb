@@ -98,7 +98,7 @@ Partial Class MenuPrincipalAdmin
         Me.BackColor = System.Drawing.Color.White
         Me.BackgroundImage = Global.WA_GestStockTeleb.My.Resources.Resources.B3
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
-        Me.ClientSize = New System.Drawing.Size(1095, 582)
+        Me.ClientSize = New System.Drawing.Size(1302, 624)
         Me.Controls.Add(Me.MenuStrip1)
         Me.IsMdiContainer = True
         Me.MainMenuStrip = Me.MenuStrip1
