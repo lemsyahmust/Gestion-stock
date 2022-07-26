@@ -184,5 +184,5 @@ Presque identique au MCD, le MPD traduit les relations porteuses en des tables, 
 <h3>III.	Conclusion</h3>
 
 * De nos jours, l'informatisation est considérée comme une évolution des sociétés. Car, elle peut conduire à d'importants gains de productivité, mais aussi une amélioration de la qualité. Ainsi, l'informatisation peut avoir des conséquences variées en termes de développement durable. 
-
+* L’objectif principal de la réalisation de ce  projet est de simplifier, automatiser, rendre performant les différentes procédures et opérations qui caractérisent de façon générale le travail d'un grossiste.
 
