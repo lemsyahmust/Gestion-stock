@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WA_GestStockTeleb
+</name>
+</assembly>
+<members>
+<member name="T:WA_GestStockTeleb.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.B2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.B21">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.B3">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.B4">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.client">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.Commande">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.Commande1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.Commande11">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.Commande12">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.Commande13">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.fermer">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.imgB">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WA_GestStockTeleb.My.Resources.Resources.stockjpg">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.AcheterPdtDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ArchiveStockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.AvoirPourcentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.CategoriePdtDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.CommandeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ContenirPdtCmdDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.GrossisteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ProduitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.RevendeurDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.SocieteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.TypeUserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.UtilisateurDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.AcheterPdtRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ArchiveStockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.AvoirPourcentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.CategoriePdtRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.CommandeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ContenirPdtCmdRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.GrossisteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ProduitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.RevendeurRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.SocieteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.TypeUserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.UtilisateurRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.AcheterPdtRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ArchiveStockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.AvoirPourcentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.CategoriePdtRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.CommandeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ContenirPdtCmdRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.GrossisteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.ProduitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.RevendeurRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.SocieteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.TypeUserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSet.UtilisateurRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.AcheterPdtTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.ArchiveStockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.AvoirPourcentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.CategoriePdtTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.CommandeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.ContenirPdtCmdTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.GrossisteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.ProduitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.RevendeurTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.SocieteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TypeUserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.UtilisateurTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WA_GestStockTeleb.GestStockTelebDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WA_GestStockTeleb.GestStockTelebDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WA_GestStockTeleb.GestStockTelebDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager.UpdateAll(WA_GestStockTeleb.GestStockTelebDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WA_GestStockTeleb.GestStockTelebDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

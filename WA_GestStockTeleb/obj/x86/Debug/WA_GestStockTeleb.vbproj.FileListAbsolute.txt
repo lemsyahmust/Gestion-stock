@@ -1,0 +1,193 @@
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hp\Desktop\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestStock.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.ConsultationCA.resources
+C:\Users\hp\Desktop\Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\itextsharp.dll
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\itextsharp.dll
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.ConsultationCA.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestStock.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hp\Desktop\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.ConsultationCA.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestStock.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Admin\Desktop\Projet2\Projet2\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Capital.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\itextsharp.dll
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Capital.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.ConsultationCA.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestStock.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Capital.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.ConsultationCA.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestStock.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Admin\Desktop\Abdellah\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\ResGen.write.1.tlog
+G:\données 07.09.2015\Tous Dossier\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+G:\données 07.09.2015\Tous Dossier\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+G:\données 07.09.2015\Tous Dossier\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+G:\données 07.09.2015\Tous Dossier\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.AssemblyReference.cache
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.SuggestedBindingRedirects.cache
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Capital.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.ConsultationCA.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestStock.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.GenerateResource.cache
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.CoreCompileInputs.cache
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\itextsharp.dll
+C:\Users\THE GHOST\Desktop\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.CopyComplete
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe.config
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.exe
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.pdb
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\WA_GestStockTeleb.xml
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\bin\Debug\itextsharp.dll
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.AssemblyReference.cache
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.SuggestedBindingRedirects.cache
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Authentification.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Capital.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.ConsultationCA.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestClients.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestFactures.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestProduits.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.GestStock.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.Resources.resources
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.GenerateResource.cache
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.CoreCompileInputs.cache
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.vbproj.CopyComplete
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.exe
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.xml
+C:\Users\THE GHOST\Desktop\Nouveau dossier (2)\Abdellah Bouhamidi Projet\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Debug\WA_GestStockTeleb.pdb

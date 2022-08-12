@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Release\WA_GestStockTeleb.exe.config
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Release\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Release\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\bin\Release\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.Authentification.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.GestClients.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.GestProduits.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.MenuPrincipalAdmin.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.Resources.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.exe
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.xml
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.pdb
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.GestCommandes.resources
+C:\Users\hp\Desktop\4emeIIR\STAGE\PartieDeveloppement\WA_GestStockTeleb\WA_GestStockTeleb\obj\x86\Release\WA_GestStockTeleb.GestFactures.resources
